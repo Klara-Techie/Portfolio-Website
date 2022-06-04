@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A collection of selected data science &lt;span&gt;projects&lt;/span&gt; to demonstrate &lt;span&gt;skill&lt;/span&gt; sets, &lt;span&gt;knowledge&lt;/span&gt;, and what I find &lt;span&gt;interesting&lt;/span&gt;. on My Portfolio</title>
+    <link>https://klara-techie.github.io/Portfolio-Website/projects/</link>
+    <description>Recent content in A collection of selected data science &lt;span&gt;projects&lt;/span&gt; to demonstrate &lt;span&gt;skill&lt;/span&gt; sets, &lt;span&gt;knowledge&lt;/span&gt;, and what I find &lt;span&gt;interesting&lt;/span&gt;. on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 May 2022 16:48:28 +0600</lastBuildDate><atom:link href="https://klara-techie.github.io/Portfolio-Website/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Indian Premier League</title>
+      <link>https://klara-techie.github.io/Portfolio-Website/projects/ipl/</link>
+      <pubDate>Tue, 31 May 2022 20:56:42 +0600</pubDate>
+      
+      <guid>https://klara-techie.github.io/Portfolio-Website/projects/ipl/</guid>
+      <description>In this project I will be working with IPL 2008 to 2017 sesson&amp;rsquo;s data. Its gonna be a very interesting analysis.
+Tools Used for Exploratory Data Analysis:</description>
+    </item>
+    
+    <item>
+      <title>Ecommerce Website EDA</title>
+      <link>https://klara-techie.github.io/Portfolio-Website/projects/sql_eda/</link>
+      <pubDate>Mon, 30 May 2022 15:44:46 +0600</pubDate>
+      
+      <guid>https://klara-techie.github.io/Portfolio-Website/projects/sql_eda/</guid>
+      <description>In this project I will be working on the Ecommerce Website&amp;rsquo;s customer data. The data having Customer details, Order details, Shipping details, Shipper details, Order status, Payment details, etc,.</description>
+    </item>
+    
+    <item>
+      <title>Car Price Prediction</title>
+      <link>https://klara-techie.github.io/Portfolio-Website/projects/car_pred/</link>
+      <pubDate>Sun, 29 May 2022 15:58:10 +0600</pubDate>
+      
+      <guid>https://klara-techie.github.io/Portfolio-Website/projects/car_pred/</guid>
+      <description>In this project I will be workingwith the car data set. Going to create a model that will predict the car price based on the given features.</description>
+    </item>
+    
+    <item>
+      <title>Flight Ticket Price Prediction</title>
+      <link>https://klara-techie.github.io/Portfolio-Website/projects/flight_ticket_pred/</link>
+      <pubDate>Sat, 28 May 2022 15:44:46 +0600</pubDate>
+      
+      <guid>https://klara-techie.github.io/Portfolio-Website/projects/flight_ticket_pred/</guid>
+      <description>In this project I will be workingwith the flight data set. Going to create a model that will predict the ticket price based on the given features.</description>
+    </item>
+    
+    <item>
+      <title>Private Or Public College Prediction</title>
+      <link>https://klara-techie.github.io/Portfolio-Website/projects/clg_pred/</link>
+      <pubDate>Fri, 27 May 2022 15:44:46 +0600</pubDate>
+      
+      <guid>https://klara-techie.github.io/Portfolio-Website/projects/clg_pred/</guid>
+      <description>In this project I will be working on set of data that is belongs to Unversities. Going to group them into two groups, Public Or Private.</description>
+    </item>
+    
+    <item>
+      <title>Ad Click Prediction</title>
+      <link>https://klara-techie.github.io/Portfolio-Website/projects/ad_pred/</link>
+      <pubDate>Thu, 26 May 2022 15:56:43 +0600</pubDate>
+      
+      <guid>https://klara-techie.github.io/Portfolio-Website/projects/ad_pred/</guid>
+      <description>In this project I will be working with a advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website.</description>
+    </item>
+    
+    <item>
+      <title>Loan Payback Prediction</title>
+      <link>https://klara-techie.github.io/Portfolio-Website/projects/loan_pred/</link>
+      <pubDate>Wed, 25 May 2022 15:56:43 +0600</pubDate>
+      
+      <guid>https://klara-techie.github.io/Portfolio-Website/projects/loan_pred/</guid>
+      <description>For this project I will be exploring publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors).</description>
+    </item>
+    
+    <item>
+      <title>Anonymous data Prediction</title>
+      <link>https://klara-techie.github.io/Portfolio-Website/projects/knn/</link>
+      <pubDate>Tue, 24 May 2022 15:56:43 +0600</pubDate>
+      
+      <guid>https://klara-techie.github.io/Portfolio-Website/projects/knn/</guid>
+      <description>In this project I will be working with the anonumous data. I have no idea about the feature coloumns. I am going to find the &amp;lsquo;K&amp;rsquo; value for low error.</description>
+    </item>
+    
+  </channel>
+</rss>
