@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Portfolio</title>
+    <title>Karthik's DS-portfolio</title>
     <link>https://klara-techie.github.io/Portfolio-Website/</link>
     <description>Recent content on My Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -32,7 +32,7 @@ Tools Used for Exploratory Data Analysis:</description>
       <pubDate>Sun, 29 May 2022 15:58:10 +0600</pubDate>
       
       <guid>https://klara-techie.github.io/Portfolio-Website/projects/car_pred/</guid>
-      <description>In this project I will be workingwith the car data set. Going to create a model that will predict the car price based on the given features.</description>
+      <description>In this project I will be working with the car data set. Going to create a model that will predict the car price based on the given features.</description>
     </item>
     
     <item>
